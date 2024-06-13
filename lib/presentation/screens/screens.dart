@@ -3,7 +3,7 @@ export 'package:proyecto_tres/presentation/screens/app_tutorial/app_tutorial_scr
 export 'package:proyecto_tres/presentation/screens/buttons/buttons_screen.dart';
 export 'package:proyecto_tres/presentation/screens/cards/cards_screen.dart';
 export 'package:proyecto_tres/presentation/screens/home/home_screen.dart';
-export 'package:proyecto_tres/presentation/screens/infinite_scroll/infinite_scrool_screen.dart';
+export 'package:proyecto_tres/presentation/screens/infinite_scroll/infinite_scroll_screen.dart';
 export 'package:proyecto_tres/presentation/screens/progress/progress_screen.dart';
 export 'package:proyecto_tres/presentation/screens/snackbar/snackbar_screen.dart';
 export 'package:proyecto_tres/presentation/screens/ui_controls/ui_controls_screen.dart';
